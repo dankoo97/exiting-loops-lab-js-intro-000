@@ -1,3 +1,3 @@
-function breakOut() {
+function breakOut(array, changeValue, stopValue) {
 
 }
